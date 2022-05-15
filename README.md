@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm micheal sam</h1>
 <h3 align="center">I'm a passionate Developer who loves to do random things which seems interesting to me...</h3>
 
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **vivekoraon4321@gmail.com**
+- 📫 How to reach me **sam755228@gmail.com**
 
 - ⚡ Fun fact **You are curently watching my profile**
 
@@ -45,12 +45,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/rollfornew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rollfornew" height="30" width="40" /></a>
-<a href="https://dribbble.com/vivek_oraon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vivek_oraon" height="30" width="40" /></a>
-<a href="https://t.me/My_name_is_vivek" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="my_name_is_vivek" height="30" width="40" /></a>
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
