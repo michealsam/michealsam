@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **sam755228@gmail.com**
 
-- ⚡ Fun fact **You are wasting my your time seeing my profile**
 
 ## 🚀 Languages and Tools:
 
