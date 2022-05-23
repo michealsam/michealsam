@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="[https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif](https://miro.medium.com/max/1400/0*RFK3by-HAKtaTYUp.gif)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1400/0*RFK3by-HAKtaTYUp.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
 
