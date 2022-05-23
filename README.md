@@ -24,15 +24,15 @@
 
 <p align="center">
     <a href="https://github.com/vivek0raon/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vivek0raon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek0raon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vivek0raon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=michealsam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/vivek0raon/github-readme-streak-stats"><img alt="vivek0raon's streak" src="https://github-readme-stats.vercel.app/api?username=vivek0raon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vivek0raon/github-readme-streak-stats"><img alt="vivek0raon's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek0raon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vivek0raon/github-readme-streak-stats"><img alt="vivek0raon's streak" src="https://github-readme-stats.vercel.app/api?username=michealsam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vivek0raon/github-readme-streak-stats"><img alt="vivek0raon's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michealsam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -40,20 +40,18 @@
 <br/>
 <br/>
 
-<a href="https://github.com/vivek0raon/github-readme-activity-graph"><img alt="vivek0raon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vivek0raon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vivek0raon/github-readme-activity-graph"><img alt="vivek0raon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michealsam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/rollfornew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rollfornew" height="30" width="40" /></a>
-<a href="https://dribbble.com/vivek_oraon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vivek_oraon" height="30" width="40" /></a>
-<a href="https://t.me/My_name_is_vivek" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="my_name_is_vivek" height="30" width="40" /></a>
+<a href="https://t.me/sam21923" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="my_name_is_vivek" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=vivek0raon">
+    <img src="https://komarev.com/ghpvc/?username=michealsam">
 </a>
-<a href="https://github.com/vivek0raon?tab=followers"><img src="https://img.shields.io/github/followers/vivek0raon?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vivek0raon?tab=followers"><img src="https://img.shields.io/github/followers/michealsam?label=Followers&style=social" alt="GitHub Badge"></a>
